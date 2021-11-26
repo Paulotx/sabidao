@@ -3,7 +3,7 @@
 
 ![Sabidao](https://imgur.com/dMDk55V.png)
 
-[Demo](wonderful-minsky-0b5601.netlify.app)
+[Demo](https://wonderful-minsky-0b5601.netlify.app/)
 
 Jogo de perguntas e respostas desenvolvido em React.js
 
